@@ -1,0 +1,28 @@
+// LOCALHOST
+### Contacts page
+GET http://localhost:8080/contacts
+
+### Contact by id
+GET http://localhost:8080/contacts/63322217c329e494fc3562c9
+
+### Contact by id
+GET http://localhost:8080/contacts/63322270c329e494fc3562cb
+
+### Contact by id
+GET http://localhost:8080/contacts/633222e6c329e494fc3562cc
+
+// RENDER
+
+// LOCALHOST
+### Contacts page
+GET https://web-backend-ii.onrender.com/contacts
+
+### Contact by id
+GET https://web-backend-ii.onrender.com/contacts/63322217c329e494fc3562c9
+
+### Contact by id
+GET https://web-backend-ii.onrender.com/contacts/63322270c329e494fc3562cb
+
+### Contact by id
+GET https://web-backend-ii.onrender.com/contacts/633222e6c329e494fc3562cc
+
