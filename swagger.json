@@ -8,7 +8,8 @@
   "host": "web-backend-ii.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "http",
+    "https"
   ],
   "paths": {
     "/": {

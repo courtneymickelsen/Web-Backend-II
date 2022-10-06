@@ -6,7 +6,7 @@ const doc = {
         description: "Courtney's API for Backend II"
     },
     host: 'web-backend-ii.onrender.com',
-    schemes: ['http'],
+    schemes: ['http', 'https'],
 };
 
 const outputFile = './swagger.json';
