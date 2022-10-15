@@ -50,11 +50,11 @@ POST http://web-backend-ii.onrender.com/contacts HTTP/1.1
 Content-Type: application/json
 
 {
-    "firstName": "Darla",
-    "lastName": "Steel",
-    "email": "lalala@wahah.com",
-    "favoriteColor": "Gold",
-    "birthday": "May 16"
+    "firstName": "Benson",
+    "lastName": "Spencer",
+    "email": "brotheremail@gmail.com",
+    "favoriteColor": "Blue",
+    "birthday": "July 24"
 }
 
 ### Edit contact by id
